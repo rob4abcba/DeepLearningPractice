@@ -6,8 +6,8 @@
 
 Data:
 
-* Linear seprable: AND, OR => Single Layer Perceptron (SLP)
-* Linear unseprable: XOR => Multi Layer Perceptron (MLP)
+* Linear separable: AND, OR => Single Layer Perceptron (SLP)
+* Linear unseparable: XOR => Multi Layer Perceptron (MLP)
 
 ## AND, OR Model
 
